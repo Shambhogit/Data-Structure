@@ -2,7 +2,7 @@
 using namespace std;
 void linear(int arr[],int key, int i ,int n){
     if(key == arr[i]){
-        cout<<"key is found at : "<<i<<" index"<<endl;
+        cout<<"key issss found at : "<<i<<" index"<<endl;
         return;
     }
     if(i == n-1){
